@@ -8,7 +8,6 @@ This project is a data analysis pipeline designed to evaulate credit risk and fi
 * **Language:** Python 3
 * **Data Manipulation:** `pandas`, `numpy`
 * **Statistical Visualization:** `matplotlib`, `seaborn`
-* **Automated Reporting:** `weasyprint`, HTML/CSS rendering
 
   ## Analytical Phases
   **Data Quality Diagonistics:** Identified and handled missing values (MNAR) and validated numerical boundaries for income and loan data.
