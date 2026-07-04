@@ -1,0 +1,201 @@
+Member_ID,County,Gender,Age,Marital_Status,Education_Level,Business_Type,Months_As_Member,Dependants,Monthly_Income,Savings,Loan_Amount,Loan_Purpose,Loan_Status,Loan_Income_Ratio,Savings_Rate,Total_Assets
+SACCO-1001,Kisumu,Male,40,Married,Certificate,Farming,15,5,47182,12381,91713,Business Expansion,Defaulted,1.9438,0.2624,36197
+SACCO-1002,Mombasa,Female,57,Married,Certificate,Farming,36,1,65904,7303,0,N/A,No Loan,0,0.1108,47998
+SACCO-1003,Nakuru,Male,29,Married,Diploma,Transport,6,2,61223,6975,109108,Emergency,Performing,1.7821,0.1139,26677
+SACCO-1004,Mombasa,Male,50,Single,Primary,Manufacturing,30,2,71782,21742,0,N/A,No Loan,0,0.3029,46984
+SACCO-1005,Mombasa,Male,53,Married,Certificate,Farming,61,3,62505,17805,86518,Emergency,Performing,1.3842,0.2849,73646
+SACCO-1006,Kiambu,Male,39,Married,Degree,Services,29,1,48452,7689,0,N/A,No Loan,0,0.1587,75401
+SACCO-1007,Nakuru,Female,27,Married,Diploma,Farming,71,0,66214,28478,209097,Business Expansion,Performing,3.1579,0.4301,114141
+SACCO-1008,Nakuru,Male,39,Married,Certificate,Manufacturing,27,0,59766,22058,125761,Emergency,Performing,2.1042,0.3691,114822
+SACCO-1009,Nakuru,Male,40,Married,Degree,Manufacturing,5,4,32258,5000,125155,Emergency,Performing,3.8798,0.155,58574
+SACCO-1010,Mombasa,Female,43,Married,Diploma,Services,70,4,49718,21102,66993,Business Expansion,Performing,1.3475,0.4244,106846
+SACCO-1011,Kisumu,Female,58,Single,Secondary,Farming,27,0,63975,28179,0,N/A,No Loan,0,0.4405,56661
+SACCO-1012,Nakuru,Female,53,Divorced,Diploma,Manufacturing,22,2,62898,28209,251996,Business Expansion,Performing,4.0064,0.4485,37380
+SACCO-1013,Mombasa,Male,24,Married,Diploma,Transport,36,5,49034,5000,155939,Emergency,Defaulted,3.1802,0.102,103932
+SACCO-1014,Kiambu,Male,49,Single,Certificate,Retail,28,2,65141,22975,54932,Working Capital,Performing,0.8433,0.3527,26671
+SACCO-1015,Kisumu,Female,31,Single,Certificate,Retail,7,4,45417,12807,0,N/A,No Loan,0,0.282,32865
+SACCO-1016,Kiambu,Female,56,Married,Certificate,Retail,63,3,81106,27669,0,N/A,No Loan,0,0.3411,47982
+SACCO-1017,Kisumu,Female,50,Married,Diploma,Farming,11,0,70480,30898,0,N/A,No Loan,0,0.4384,50047
+SACCO-1018,Mombasa,Female,36,Married,Certificate,Services,52,4,63181,21138,142653,Education,Performing,2.2578,0.3346,74659
+SACCO-1019,Nairobi,Female,54,Married,Degree,Manufacturing,8,4,106045,41323,434488,Emergency,Performing,4.0972,0.3897,87063
+SACCO-1020,Kisumu,Female,28,Married,Diploma,Transport,62,5,63719,25534,295591,Asset Purchase,Performing,4.639,0.4007,30490
+SACCO-1021,Kiambu,Male,33,Married,Secondary,Transport,46,0,73701,28760,0,N/A,No Loan,0,0.3902,104491
+SACCO-1022,Mombasa,Male,51,Single,Diploma,Farming,13,5,36017,8559,94551,Education,Performing,2.6252,0.2376,91171
+SACCO-1023,Kisumu,Male,42,Married,Secondary,Retail,68,0,29501,5000,81309,Working Capital,Performing,2.7561,0.1695,71641
+SACCO-1024,Nairobi,Female,52,Married,Diploma,Farming,49,5,98342,22300,453244,Education,Defaulted,4.6089,0.2268,86111
+SACCO-1025,Nairobi,Female,45,Single,Diploma,Services,75,2,54210,22226,0,N/A,No Loan,0,0.41,74386
+SACCO-1026,Nakuru,Female,41,Single,Secondary,Services,5,3,54141,7268,167180,Working Capital,Performing,3.0879,0.1342,58581
+SACCO-1027,Nakuru,Female,58,Married,Certificate,Manufacturing,78,3,70008,18897,0,N/A,No Loan,0,0.2699,82129
+SACCO-1028,Kiambu,Female,25,Married,Secondary,Manufacturing,32,0,72743,12096,31289,Working Capital,Performing,0.4301,0.1663,27513
+SACCO-1029,Kisumu,Female,49,Widowed,Secondary,Services,23,1,37174,10969,171397,Working Capital,Performing,4.6107,0.2951,35698
+SACCO-1030,Kisumu,Male,41,Widowed,Certificate,Services,30,6,32760,13083,0,N/A,No Loan,0,0.3994,43182
+SACCO-1031,Nakuru,Male,45,Married,Certificate,Services,64,4,66690,27058,97806,Emergency,Defaulted,1.4666,0.4057,125192
+SACCO-1032,Kisumu,Female,53,Married,Degree,Farming,35,4,56490,9466,0,N/A,No Loan,0,0.1676,39427
+SACCO-1033,Kisumu,Male,57,Married,Certificate,Services,37,0,42861,17823,132236,Agricultural Input,Performing,3.0852,0.4158,30425
+SACCO-1034,Nairobi,Female,55,Married,Certificate,Transport,54,5,104175,31148,99446,Agricultural Input,Defaulted,0.9546,0.299,40404
+SACCO-1035,Nakuru,Male,57,Single,Diploma,Retail,36,1,67371,14119,30734,Asset Purchase,Performing,0.4562,0.2096,100239
+SACCO-1036,Mombasa,Female,23,Married,Secondary,Services,43,2,94194,32216,160465,Agricultural Input,Performing,1.7036,0.342,66897
+SACCO-1037,Nakuru,Female,36,Divorced,Degree,Retail,53,5,62204,16062,247139,Education,Performing,3.973,0.2582,107390
+SACCO-1038,Mombasa,Male,55,Married,Diploma,Farming,49,5,59038,12979,96389,Business Expansion,Performing,1.6327,0.2198,100419
+SACCO-1039,Nairobi,Male,57,Married,Diploma,Retail,60,0,82426,28097,106306,Business Expansion,Performing,1.2897,0.3409,92886
+SACCO-1040,Kiambu,Female,27,Married,Secondary,Farming,77,0,35177,6051,53153,Business Expansion,Performing,1.511,0.172,49412
+SACCO-1041,Kisumu,Female,60,Single,Certificate,Transport,59,4,50711,10253,140321,Asset Purchase,Performing,2.7671,0.2022,74756
+SACCO-1042,Nairobi,Male,33,Married,Certificate,Farming,25,0,84717,20395,413713,Asset Purchase,Defaulted,4.8835,0.2407,54935
+SACCO-1043,Kisumu,Male,24,Married,Degree,Farming,50,0,24058,5000,66032,Working Capital,Performing,2.7447,0.2078,31536
+SACCO-1044,Kiambu,Female,39,Single,Primary,Manufacturing,24,0,69544,15989,202640,Business Expansion,Performing,2.9138,0.2299,100689
+SACCO-1045,Kiambu,Male,61,Single,Certificate,Services,19,4,94177,27447,408046,Education,Performing,4.3328,0.2914,90490
+SACCO-1046,Nairobi,Female,42,Divorced,Degree,Services,71,2,71778,25420,201329,Agricultural Input,Performing,2.8049,0.3541,103952
+SACCO-1047,Kiambu,Female,36,Single,Certificate,Transport,13,2,52721,19183,0,N/A,No Loan,0,0.3639,75758
+SACCO-1048,Mombasa,Female,54,Married,Certificate,Transport,17,6,81888,31480,91837,Agricultural Input,Performing,1.1215,0.3844,34351
+SACCO-1049,Kiambu,Female,56,Single,Secondary,Services,37,6,81416,28931,135967,Business Expansion,Performing,1.67,0.3553,74933
+SACCO-1050,Kisumu,Male,47,Widowed,Degree,Manufacturing,35,0,103099,34227,168769,Business Expansion,Performing,1.637,0.332,84039
+SACCO-1051,Kisumu,Male,29,Single,Primary,Services,18,6,24265,5000,0,N/A,No Loan,0,0.2061,27626
+SACCO-1052,Kisumu,Male,57,Married,Diploma,Manufacturing,36,4,60966,13905,0,N/A,No Loan,0,0.2281,73884
+SACCO-1053,Kisumu,Male,51,Divorced,Diploma,Transport,68,2,53686,13784,118705,Agricultural Input,Defaulted,2.2111,0.2568,89841
+SACCO-1054,Mombasa,Male,44,Divorced,Secondary,Retail,42,5,63067,6979,146045,Asset Purchase,Performing,2.3157,0.1107,73647
+SACCO-1055,Nakuru,Male,35,Single,Diploma,Transport,30,2,68389,18840,277485,Asset Purchase,Defaulted,4.0575,0.2755,117843
+SACCO-1056,Nairobi,Male,35,Married,Secondary,Transport,49,2,84464,20393,0,N/A,No Loan,0,0.2414,100463
+SACCO-1057,Kisumu,Female,23,Married,Secondary,Farming,41,4,15000,5651,39216,Education,Performing,2.6144,0.3767,95041
+SACCO-1058,Kiambu,Male,58,Married,Diploma,Farming,72,6,54747,24188,0,N/A,No Loan,0,0.4418,67186
+SACCO-1059,Kisumu,Male,26,Single,Degree,Farming,75,5,72559,20731,180507,Working Capital,Performing,2.4877,0.2857,84545
+SACCO-1060,Kiambu,Female,59,Single,Diploma,Farming,22,4,91096,18163,0,N/A,No Loan,0,0.1994,63770
+SACCO-1061,Kiambu,Male,35,Married,Diploma,Manufacturing,3,0,63283,6078,0,N/A,No Loan,0,0.096,13890
+SACCO-1062,Kisumu,Male,60,Married,Secondary,Services,74,3,57064,24087,185818,Emergency,Performing,3.2563,0.4221,85931
+SACCO-1063,Mombasa,Female,46,Married,Secondary,Retail,65,2,112110,47094,201308,Emergency,Defaulted,1.7956,0.4201,117187
+SACCO-1064,Kiambu,Male,41,Married,Secondary,Transport,69,3,69438,12054,293715,Education,Defaulted,4.2299,0.1736,14233
+SACCO-1065,Kiambu,Male,23,Married,Secondary,Manufacturing,6,4,69791,23540,213245,Asset Purchase,Performing,3.0555,0.3373,67338
+SACCO-1066,Kisumu,Male,60,Single,Certificate,Retail,60,4,51430,5549,89732,Working Capital,Performing,1.7447,0.1079,80150
+SACCO-1067,Kiambu,Female,27,Married,Certificate,Manufacturing,27,4,80925,11450,0,N/A,No Loan,0,0.1415,19725
+SACCO-1068,Kiambu,Male,38,Single,Certificate,Manufacturing,49,3,63719,10209,233214,Business Expansion,Defaulted,3.66,0.1602,60783
+SACCO-1069,Kisumu,Male,46,Married,Secondary,Transport,40,4,58910,11131,164865,Asset Purchase,Performing,2.7986,0.1889,58988
+SACCO-1070,Kisumu,Female,49,Married,Diploma,Services,17,0,15000,6726,49395,Business Expansion,Performing,3.293,0.4484,27426
+SACCO-1071,Nairobi,Male,23,Widowed,Degree,Farming,65,4,91055,30764,229405,Business Expansion,Performing,2.5194,0.3379,70228
+SACCO-1072,Mombasa,Female,56,Single,Secondary,Services,23,1,62911,13975,166397,Working Capital,Performing,2.645,0.2221,56326
+SACCO-1073,Mombasa,Female,58,Single,Degree,Transport,59,6,58085,20488,226971,Agricultural Input,Performing,3.9076,0.3527,113818
+SACCO-1074,Kiambu,Male,26,Single,Degree,Transport,55,3,61445,25723,49578,Education,Performing,0.8069,0.4186,120042
+SACCO-1075,Mombasa,Female,22,Single,Secondary,Transport,48,1,51031,22184,98627,Asset Purchase,Performing,1.9327,0.4347,104718
+SACCO-1076,Kiambu,Female,61,Single,Diploma,Retail,16,4,55356,5613,0,N/A,No Loan,0,0.1014,19482
+SACCO-1077,Nairobi,Male,33,Divorced,Diploma,Services,78,0,43274,9778,34826,Asset Purchase,Performing,0.8048,0.226,70093
+SACCO-1078,Kisumu,Female,57,Single,Diploma,Services,19,2,43175,5159,167542,Agricultural Input,Performing,3.8805,0.1195,98847
+SACCO-1079,Kisumu,Female,44,Single,Certificate,Manufacturing,41,5,67733,13830,0,N/A,No Loan,0,0.2042,34784
+SACCO-1080,Kisumu,Male,52,Married,Diploma,Manufacturing,11,6,41962,5991,71685,Agricultural Input,Performing,1.7083,0.1428,37546
+SACCO-1081,Mombasa,Male,32,Married,Certificate,Manufacturing,79,5,73432,23449,331551,Education,Performing,4.5151,0.3193,86802
+SACCO-1082,Nairobi,Male,31,Married,Diploma,Transport,81,4,65556,14662,182070,Emergency,Performing,2.7773,0.2237,96852
+SACCO-1083,Mombasa,Female,24,Single,Diploma,Services,8,6,38497,6347,158117,Education,Performing,4.1073,0.1649,51373
+SACCO-1084,Mombasa,Male,35,Married,Diploma,Transport,25,6,48486,8649,0,N/A,No Loan,0,0.1784,55625
+SACCO-1085,Nairobi,Female,37,Single,Diploma,Retail,61,0,66541,14195,326116,Agricultural Input,Performing,4.901,0.2133,94773
+SACCO-1086,Nairobi,Female,31,Single,Diploma,Manufacturing,48,6,63705,11223,270697,Business Expansion,Performing,4.2492,0.1762,102725
+SACCO-1087,Nairobi,Female,50,Divorced,Secondary,Transport,40,3,93095,23059,406224,Emergency,Performing,4.3635,0.2477,68154
+SACCO-1088,Nairobi,Female,31,Single,Secondary,Transport,16,1,117020,10760,215832,Working Capital,Performing,1.8444,0.092,25030
+SACCO-1089,Kisumu,Female,33,Married,Degree,Retail,74,1,35995,6605,108261,Asset Purchase,Performing,3.0077,0.1835,37513
+SACCO-1090,Nakuru,Female,51,Married,Certificate,Farming,64,1,21547,5002,42274,Agricultural Input,Performing,1.9619,0.2321,20525
+SACCO-1091,Nakuru,Female,22,Married,Primary,Services,37,3,63822,19339,78659,Business Expansion,Defaulted,1.2325,0.303,81772
+SACCO-1092,Nairobi,Male,26,Divorced,Secondary,Farming,21,5,59153,10662,159401,Education,Defaulted,2.6947,0.1802,57730
+SACCO-1093,Nakuru,Male,41,Single,Secondary,Manufacturing,32,0,30701,5000,0,N/A,No Loan,0,0.1629,24991
+SACCO-1094,Nakuru,Female,29,Married,Degree,Transport,80,6,60909,6589,189318,Asset Purchase,Performing,3.1082,0.1082,17364
+SACCO-1095,Nairobi,Female,33,Widowed,Diploma,Retail,27,3,82024,35106,0,N/A,No Loan,0,0.428,112907
+SACCO-1096,Nakuru,Male,22,Married,Degree,Retail,42,1,39630,9279,0,N/A,No Loan,0,0.2341,94274
+SACCO-1097,Mombasa,Female,41,Widowed,Diploma,Services,16,4,63230,18654,0,N/A,No Loan,0,0.295,79904
+SACCO-1098,Kiambu,Male,49,Single,Certificate,Farming,28,2,62630,26310,0,N/A,No Loan,0,0.4201,42983
+SACCO-1099,Kiambu,Male,58,Married,Certificate,Services,24,6,104011,11505,182850,Agricultural Input,Defaulted,1.758,0.1106,38561
+SACCO-1100,Nairobi,Male,58,Single,Diploma,Transport,50,3,72835,29451,215988,Agricultural Input,Performing,2.9654,0.4044,36065
+SACCO-1101,Kisumu,Female,33,Married,Secondary,Services,53,3,31558,8965,142283,Agricultural Input,Performing,4.5086,0.2841,16380
+SACCO-1102,Nairobi,Female,58,Widowed,Degree,Retail,5,0,76809,10829,0,N/A,No Loan,0,0.141,99520
+SACCO-1103,Kisumu,Male,49,Single,Degree,Retail,44,0,40570,9418,121796,Working Capital,Performing,3.0021,0.2321,53302
+SACCO-1104,Kiambu,Male,36,Married,Certificate,Manufacturing,21,3,80721,29682,296507,Agricultural Input,Defaulted,3.6732,0.3677,46646
+SACCO-1105,Nairobi,Male,27,Single,Degree,Manufacturing,75,1,49152,12668,201807,Agricultural Input,Defaulted,4.1058,0.2577,50394
+SACCO-1106,Mombasa,Male,41,Married,Degree,Transport,30,2,69668,30971,344639,Working Capital,Performing,4.9469,0.4446,68015
+SACCO-1107,Nakuru,Male,35,Married,Diploma,Farming,47,6,42256,9270,135379,Business Expansion,Performing,3.2038,0.2194,66419
+SACCO-1108,Kisumu,Female,23,Widowed,Secondary,Services,73,0,61982,22148,0,N/A,No Loan,0,0.3573,59692
+SACCO-1109,Nakuru,Male,30,Married,Certificate,Transport,80,6,51142,11527,210182,Education,Performing,4.1098,0.2254,61503
+SACCO-1110,Nakuru,Female,58,Married,Diploma,Manufacturing,65,1,61336,23724,295972,Emergency,Defaulted,4.8254,0.3868,55976
+SACCO-1111,Nairobi,Male,41,Single,Secondary,Services,75,6,77954,22650,369214,Emergency,Performing,4.7363,0.2906,26482
+SACCO-1112,Nakuru,Female,47,Single,Secondary,Manufacturing,21,4,59884,6197,0,N/A,No Loan,0,0.1035,97008
+SACCO-1113,Mombasa,Female,50,Single,Diploma,Services,49,0,91947,8608,82038,Asset Purchase,Performing,0.8922,0.0936,89045
+SACCO-1114,Nakuru,Female,22,Single,Secondary,Farming,16,1,38693,5011,90494,Emergency,Performing,2.3388,0.1295,39159
+SACCO-1115,Nairobi,Female,56,Divorced,Diploma,Transport,40,1,83070,7065,148089,Emergency,Performing,1.7827,0.085,68305
+SACCO-1116,Mombasa,Female,27,Married,Degree,Services,55,2,53248,5744,41404,Education,Defaulted,0.7776,0.1079,94198
+SACCO-1117,Kiambu,Female,58,Married,Degree,Retail,63,2,98673,33147,319754,Working Capital,Defaulted,3.2405,0.3359,118223
+SACCO-1118,Nakuru,Male,26,Single,Secondary,Retail,38,4,44189,12271,0,N/A,No Loan,0,0.2777,89387
+SACCO-1119,Nairobi,Female,54,Divorced,Degree,Services,42,1,71811,25670,0,N/A,No Loan,0,0.3575,79129
+SACCO-1120,Kiambu,Male,35,Married,Primary,Services,83,5,59591,24901,224548,Education,Performing,3.7682,0.4179,63303
+SACCO-1121,Kiambu,Female,33,Single,Primary,Services,32,1,67557,20031,289522,Emergency,Performing,4.2856,0.2965,77758
+SACCO-1122,Kisumu,Female,41,Married,Diploma,Retail,11,2,33716,11755,38242,Agricultural Input,Performing,1.1342,0.3486,50333
+SACCO-1123,Mombasa,Male,45,Married,Certificate,Retail,66,5,55367,19938,245101,Working Capital,Performing,4.4268,0.3601,110391
+SACCO-1124,Nakuru,Female,55,Single,Certificate,Services,35,0,54829,12051,183396,Emergency,Performing,3.3449,0.2198,34369
+SACCO-1125,Nairobi,Male,46,Married,Diploma,Manufacturing,54,0,82921,14030,297780,Emergency,Performing,3.5911,0.1692,89745
+SACCO-1126,Kisumu,Male,50,Married,Secondary,Manufacturing,16,6,62970,9814,288497,Business Expansion,Performing,4.5815,0.1559,87601
+SACCO-1127,Mombasa,Male,60,Single,Secondary,Farming,77,3,56251,9733,183222,Working Capital,Performing,3.2572,0.173,94762
+SACCO-1128,Kisumu,Male,52,Widowed,Certificate,Transport,55,2,44316,8050,87703,Agricultural Input,Performing,1.979,0.1816,28516
+SACCO-1129,Mombasa,Female,44,Divorced,Diploma,Manufacturing,61,3,66879,10478,279409,Working Capital,Performing,4.1778,0.1567,106220
+SACCO-1130,Mombasa,Female,59,Married,Diploma,Retail,80,5,102406,41468,194268,Emergency,Defaulted,1.897,0.4049,86943
+SACCO-1131,Nakuru,Male,41,Married,Secondary,Manufacturing,43,2,37823,13619,25788,Agricultural Input,Performing,0.6818,0.3601,73761
+SACCO-1132,Mombasa,Female,44,Married,Certificate,Farming,70,4,96625,9406,404696,Education,Performing,4.1883,0.0973,94566
+SACCO-1133,Kisumu,Female,37,Married,Secondary,Farming,70,1,26695,5000,59170,Business Expansion,Performing,2.2165,0.1873,31564
+SACCO-1134,Mombasa,Male,29,Married,Secondary,Transport,10,4,66121,5832,260356,Emergency,Performing,3.9376,0.0882,28244
+SACCO-1135,Nakuru,Female,42,Single,Diploma,Manufacturing,4,5,45891,12129,0,N/A,No Loan,0,0.2643,105655
+SACCO-1136,Nakuru,Male,22,Married,Secondary,Retail,43,2,37325,9562,0,N/A,No Loan,0,0.2562,60563
+SACCO-1137,Kisumu,Male,29,Married,Secondary,Retail,57,5,60583,23482,122629,Business Expansion,Performing,2.0241,0.3876,81131
+SACCO-1138,Kiambu,Female,50,Married,Diploma,Services,18,1,80798,15664,350641,Education,Defaulted,4.3397,0.1939,76621
+SACCO-1139,Kiambu,Female,53,Single,Diploma,Retail,64,0,61337,23434,82930,Emergency,Performing,1.352,0.3821,58951
+SACCO-1140,Mombasa,Female,59,Married,Diploma,Transport,50,0,24311,10651,118970,Working Capital,Performing,4.8937,0.4381,23807
+SACCO-1141,Nairobi,Male,26,Single,Secondary,Transport,32,5,77439,8728,306323,Business Expansion,Performing,3.9557,0.1127,31792
+SACCO-1142,Mombasa,Male,43,Single,Secondary,Retail,14,3,64505,24058,0,N/A,No Loan,0,0.373,49769
+SACCO-1143,Kisumu,Female,55,Single,Secondary,Retail,37,2,48032,14327,45150,Working Capital,Performing,0.94,0.2983,44433
+SACCO-1144,Kisumu,Female,22,Married,Secondary,Services,13,2,61606,15870,182960,Asset Purchase,Performing,2.9698,0.2576,81328
+SACCO-1145,Kisumu,Female,47,Married,Diploma,Retail,66,0,82803,19508,408249,Asset Purchase,Performing,4.9304,0.2356,36097
+SACCO-1146,Kisumu,Female,31,Married,Degree,Services,52,6,55449,20534,141179,Working Capital,Performing,2.5461,0.3703,109806
+SACCO-1147,Kisumu,Male,51,Single,Diploma,Services,23,4,58219,18430,69368,Business Expansion,Performing,1.1915,0.3166,104941
+SACCO-1148,Nakuru,Female,39,Divorced,Diploma,Retail,71,6,54667,20656,142811,Asset Purchase,Performing,2.6124,0.3779,27870
+SACCO-1149,Kiambu,Male,38,Divorced,Certificate,Farming,50,1,91103,37731,243182,Emergency,Performing,2.6693,0.4142,133848
+SACCO-1150,Kisumu,Male,47,Divorced,Diploma,Farming,22,4,57565,17752,218642,Agricultural Input,Performing,3.7982,0.3084,103483
+SACCO-1151,Nairobi,Female,29,Single,Certificate,Services,69,4,98483,43605,0,N/A,No Loan,0,0.4428,70732
+SACCO-1152,Nairobi,Female,61,Married,Diploma,Retail,46,5,117561,35855,0,N/A,No Loan,0,0.305,40996
+SACCO-1153,Nairobi,Female,33,Widowed,Certificate,Farming,35,0,89085,28111,317306,Asset Purchase,Performing,3.5618,0.3156,56995
+SACCO-1154,Nairobi,Male,48,Married,Secondary,Retail,75,6,80122,22857,173214,Business Expansion,Performing,2.1619,0.2853,113278
+SACCO-1155,Nakuru,Female,29,Single,Certificate,Retail,63,6,60033,6823,81082,Emergency,Defaulted,1.3506,0.1137,9531
+SACCO-1156,Nairobi,Female,46,Single,Degree,Retail,11,0,105452,36778,0,N/A,No Loan,0,0.3488,55153
+SACCO-1157,Kisumu,Male,25,Married,Secondary,Manufacturing,70,6,57025,16112,191019,Education,Performing,3.3497,0.2825,31200
+SACCO-1158,Mombasa,Female,54,Divorced,Secondary,Retail,37,0,81091,20016,182547,Education,Performing,2.2511,0.2468,77631
+SACCO-1159,Nairobi,Male,22,Married,Certificate,Manufacturing,83,5,72958,30414,65607,Agricultural Input,Performing,0.8992,0.4169,75460
+SACCO-1160,Nakuru,Female,40,Married,Diploma,Services,67,3,36374,6919,165775,Asset Purchase,Defaulted,4.5575,0.1902,16933
+SACCO-1161,Nakuru,Male,52,Single,Diploma,Farming,10,4,42189,11548,151985,Asset Purchase,Performing,3.6025,0.2737,75973
+SACCO-1162,Nairobi,Female,37,Married,Diploma,Farming,47,5,62187,21027,218762,Asset Purchase,Defaulted,3.5178,0.3381,24300
+SACCO-1163,Mombasa,Female,35,Divorced,Secondary,Farming,49,2,63985,23974,266713,Agricultural Input,Performing,4.1684,0.3747,71109
+SACCO-1164,Nairobi,Male,26,Married,Diploma,Farming,42,1,77259,19311,214012,Education,Defaulted,2.7701,0.25,50192
+SACCO-1165,Nakuru,Male,47,Married,Certificate,Farming,78,3,74143,29032,305851,Business Expansion,Defaulted,4.1252,0.3916,126054
+SACCO-1166,Kiambu,Female,49,Widowed,Degree,Farming,56,2,46757,17042,0,N/A,No Loan,0,0.3645,95119
+SACCO-1167,Kisumu,Male,23,Single,Diploma,Farming,78,4,75988,7941,199282,Agricultural Input,Performing,2.6225,0.1045,16653
+SACCO-1168,Nakuru,Male,27,Married,Secondary,Services,48,6,34338,5000,30189,Business Expansion,Performing,0.8792,0.1456,79704
+SACCO-1169,Nairobi,Male,30,Single,Secondary,Retail,49,0,62711,19421,138962,Asset Purchase,Performing,2.2159,0.3097,72295
+SACCO-1170,Kisumu,Male,54,Married,Primary,Transport,17,4,33156,6914,92520,Emergency,Defaulted,2.7904,0.2085,76001
+SACCO-1171,Nairobi,Female,46,Married,Certificate,Manufacturing,21,5,120123,18904,365697,Business Expansion,Performing,3.0444,0.1574,31201
+SACCO-1172,Nairobi,Female,34,Married,Secondary,Transport,28,1,84278,24817,62779,Education,Defaulted,0.7449,0.2945,51945
+SACCO-1173,Kiambu,Male,30,Married,Diploma,Transport,54,5,79529,16413,72877,Working Capital,Performing,0.9164,0.2064,84781
+SACCO-1174,Kisumu,Male,34,Married,Certificate,Retail,24,3,44689,12458,0,N/A,No Loan,0,0.2788,106477
+SACCO-1175,Kisumu,Male,52,Divorced,Secondary,Retail,23,3,46378,11605,75871,Agricultural Input,Defaulted,1.6359,0.2502,99204
+SACCO-1176,Kiambu,Male,32,Married,Secondary,Retail,53,1,60894,18046,0,N/A,No Loan,0,0.2964,106545
+SACCO-1177,Nakuru,Female,25,Single,Secondary,Farming,40,2,52913,12070,85176,Emergency,Performing,1.6097,0.2281,91028
+SACCO-1178,Nairobi,Female,55,Married,Degree,Services,22,2,93902,31751,349124,Asset Purchase,Defaulted,3.718,0.3381,64671
+SACCO-1179,Mombasa,Male,59,Married,Secondary,Farming,31,3,92209,13520,0,N/A,No Loan,0,0.1466,24676
+SACCO-1180,Nairobi,Male,25,Married,Diploma,Services,53,3,51259,17310,0,N/A,No Loan,0,0.3377,28418
+SACCO-1181,Nairobi,Male,59,Divorced,Degree,Services,6,6,113994,26482,0,N/A,No Loan,0,0.2323,58327
+SACCO-1182,Nakuru,Female,40,Divorced,Diploma,Transport,57,0,61503,24816,92088,Education,Performing,1.4973,0.4035,27616
+SACCO-1183,Nairobi,Male,27,Single,Degree,Transport,73,6,78380,21212,255449,Asset Purchase,Performing,3.2591,0.2706,63924
+SACCO-1184,Kiambu,Female,55,Widowed,Certificate,Services,30,6,60140,26464,0,N/A,No Loan,0,0.44,29074
+SACCO-1185,Kiambu,Male,39,Single,Degree,Services,6,2,88786,26876,229537,Working Capital,Performing,2.5853,0.3027,104479
+SACCO-1186,Kisumu,Female,34,Single,Secondary,Farming,24,1,52121,8486,157937,Asset Purchase,Performing,3.0302,0.1628,42358
+SACCO-1187,Mombasa,Male,44,Single,Secondary,Farming,78,2,34386,13206,0,N/A,No Loan,0,0.3841,23934
+SACCO-1188,Nairobi,Female,40,Divorced,Diploma,Transport,47,0,91535,19010,386818,Agricultural Input,Performing,4.2259,0.2077,114112
+SACCO-1189,Nairobi,Male,32,Married,Degree,Retail,69,5,105598,22029,214103,Emergency,Performing,2.0275,0.2086,117348
+SACCO-1190,Nakuru,Male,22,Single,Degree,Services,68,3,67441,6188,264536,Agricultural Input,Defaulted,3.9225,0.0918,26771
+SACCO-1191,Kiambu,Male,45,Married,Secondary,Farming,36,3,58716,16618,0,N/A,No Loan,0,0.283,102392
+SACCO-1192,Mombasa,Female,28,Married,Secondary,Transport,57,0,37843,10510,0,N/A,No Loan,0,0.2777,17773
+SACCO-1193,Kisumu,Male,46,Single,Degree,Farming,3,6,42132,8920,0,N/A,No Loan,0,0.2117,76370
+SACCO-1194,Kiambu,Female,42,Divorced,Secondary,Services,74,1,128571,52824,222577,Agricultural Input,Performing,1.7312,0.4109,142109
+SACCO-1195,Kisumu,Female,36,Married,Diploma,Services,40,3,20190,5000,48645,Education,Defaulted,2.4094,0.2476,24456
+SACCO-1196,Nakuru,Male,22,Married,Degree,Manufacturing,8,4,36830,7444,0,N/A,No Loan,0,0.2021,98562
+SACCO-1197,Nakuru,Male,33,Widowed,Certificate,Retail,27,6,59056,11751,0,N/A,No Loan,0,0.199,77693
+SACCO-1198,Nairobi,Male,28,Married,Certificate,Manufacturing,19,3,82758,9446,0,N/A,No Loan,0,0.1141,23135
+SACCO-1199,Mombasa,Female,36,Widowed,Certificate,Transport,63,4,58396,15067,0,N/A,No Loan,0,0.258,48001
+SACCO-1200,Kisumu,Male,42,Married,Secondary,Farming,14,0,84444,28244,405579,Business Expansion,Performing,4.8029,0.3345,61520
